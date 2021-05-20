@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
  
-Email     ana86stankevich@gmail.com
-LinkedIn  linkedin.com/in/ana-stankevich
-Skype     Ana_Stankevich live:.cid.4aad60bfc7cbde15
+Email:     ana86stankevich@gmail.com
+LinkedIn:  linkedin.com/in/ana-stankevich
+Skype:     Ana_Stankevich live:.cid.4aad60bfc7cbde15
 
 <!---
 AnaStankevih/AnaStankevih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
